@@ -1,0 +1,6 @@
+"" plugin manager: github search: vim-plug
+~/.vim/autoload/plug.vim 
+
+"" extra plug
+~/.vim/auto-pairs.vim
+
